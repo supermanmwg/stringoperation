@@ -11,7 +11,6 @@ public class StringOperation {
 			}
 		}
 		
-		return word;
-		//return new String(stringArray);
+		return new String(stringArray);
 	}
 }
